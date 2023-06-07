@@ -1,0 +1,40 @@
+# Sportswear-e-commerce-web-app-
+
+## Demo Video URL : https://drive.google.com/file/d/1w_FK-F9rzBj4q97hOyOyW23bxaXZMBXN/view?usp=sharing
+
+## TeamMembers :
+  1) Hadeel Sameh Hassan (hadeelsameh24@gmail.com):
+        - DataBase Structure.
+        - Products Backend (services,controllers,and routes).
+        - Users Backend  with Auth Middlewares (services,controllers,and routes).
+        - Orders Backend (services,controllers,and routes).
+        - Convert Static Template to Components in Angular.
+        - Home compnent witn components interactions.
+        - Shop component with Filtering on category and sorting on price and number of sold items.
+        - Contact-Us component with Reactive Forms and Validation.
+        - Checkout component with Reactive Forms and Validation.
+        - Profile Component.
+  2) Yara Elsayed mohamed (yaraelsayed237@gmail.com):
+        - Cart Backend (services,controllers,and routes).
+        - convert cart static template to componnts in Angular.
+        - cart component with all operations.
+        - Authorization Gaurd.
+        - Register Component.
+        - Login Component.
+        - SignOut property.
+ 
+        
+
+## For Testing The Project :
+
+1) DataBase:
+  - Create Database "ecommerce" on Mongo DB.
+  - open "Database collection" folder and create collection with the name of files the import every file into collections 
+  (Ex: product.json => create collection 'product' and import product.json data into it).
+ 
+2) Backend :
+  - RUN using the command "npm server.js" after installing dependencies
+3) SportsWearApp (Angular App):
+  - you nead to do the previos steps.
+  - run the command ng serve after installing any missing requirements.
+
